@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Landing Page",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
